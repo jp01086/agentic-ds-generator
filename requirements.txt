@@ -1,3 +1,5 @@
-openai
+groq
 streamlit
 python-dotenv
+networkx
+matplotlib
